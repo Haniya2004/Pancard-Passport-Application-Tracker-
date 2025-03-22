@@ -1,0 +1,21 @@
+Application_ID,Application_Type,Date_of_Birth,Place_of_Birth,Submission_Date,ID_Proof,Status
+1,New,02-07-1993,CityA,03-09-2023,aadhar card,Completed
+2,Correction,11-04-1991,CityB,12-07-2023,passport,Completed
+3,New,17-11-1998,CityC,27-08-2023,passport,Rejected
+4,New,15-07-1998,CityD,21-04-2023,voter id,Pending
+5,Correction,28-03-1993,CityE,06-10-2023,driving license,Rejected
+6,New,16-10-1999,CityF,25-06-2023,passport,Pending
+7,Correction,13-01-1990,CityG,05-08-2023,voter id,Rejected
+8,New,21-04-1998,CityH,09-04-2023,driving license,Pending
+9,New,23-09-1993,CityI,13-02-2023,voter id,Pending
+10,Correction,20-11-1990,CityJ,25-12-2023,passport,Rejected
+11,New,16-07-1992,CityK,16-11-2023,passport,Completed
+12,New,28-08-1990,CityL,24-07-2023,driving license,Completed
+13,Correction,12-06-1999,CityM,01-07-2023,driving license,Completed
+14,New,01-02-1995,CityN,04-10-2023,voter id,Pending
+15,Correction,18-08-1997,CityO,17-09-2023,aadhar card,Completed
+16,New,24-07-1998,CityP,20-04-2023,voter id,Completed
+17,Correction,22-06-1998,CityQ,03-04-2023,aadhar card,Rejected
+18,New,08-11-1995,CityR,09-09-2023,passport,Completed
+19,New,12-12-1990,CityS,07-08-2023,voter id,Pending
+20,Correction,26-10-1998,CityT,02-05-2023,aadhar card,Completed
